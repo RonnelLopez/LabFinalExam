@@ -1,0 +1,14 @@
+body {
+    background-color: #B5C2C5;
+}
+
+header {
+    margin-bottom: 2rem;
+}
+
+.card {
+    margin-bottom: 1rem;
+}
+.min-vh-100 {
+    min-height: 100vh; /* Ensure full viewport height */
+}
